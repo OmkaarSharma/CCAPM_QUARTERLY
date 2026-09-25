@@ -1,0 +1,150 @@
+inputs: panel = c:\Users\OMKAAR\OneDrive\Documents\CCAPM_PAPER_2(UPDATED)\CONSUMPTION_INCOME_Q.csv
+        lambda = c:\Users\OMKAAR\OneDrive\Documents\CCAPM_PAPER_2(UPDATED)\Lambda_Average_Values_For_Each_Region.csv
+        output = c:\Users\OMKAAR\OneDrive\Documents\CCAPM_PAPER_2(UPDATED)\SDF_quarterly_lambda_results
+panel: 2812 rows, 74 cells, 2014Q1 .. 2023Q2
+lambda rows with no panel cell (skipped): [('Chandigarh', 'RURAL')]
+panel cells with no lambda: []
+  done Andhra Pradesh     Comb   lambda=0.1920  T_ret=37  feasible(user)=True
+  done Andhra Pradesh     RURAL  lambda=0.2350  T_ret=37  feasible(user)=True
+  done Andhra Pradesh     URBAN  lambda=0.1772  T_ret=37  feasible(user)=True
+  done Assam              Comb   lambda=0.2153  T_ret=37  feasible(user)=True
+  done Assam              RURAL  lambda=0.2756  T_ret=37  feasible(user)=True
+  done Assam              URBAN  lambda=0.1799  T_ret=37  feasible(user)=True
+  done Bihar              Comb   lambda=0.1850  T_ret=37  feasible(user)=True
+  done Bihar              RURAL  lambda=0.2342  T_ret=37  feasible(user)=True
+  done Bihar              URBAN  lambda=0.1536  T_ret=37  feasible(user)=True
+  done Chandigarh         Comb   lambda=0.0747  T_ret=37  feasible(user)=True
+  done Chandigarh         URBAN  lambda=0.0747  T_ret=37  feasible(user)=True
+  done Chhattisgarh       Comb   lambda=0.2394  T_ret=37  feasible(user)=True
+  done Chhattisgarh       RURAL  lambda=0.3247  T_ret=37  feasible(user)=True
+  done Chhattisgarh       URBAN  lambda=0.1929  T_ret=37  feasible(user)=True
+  done Delhi              Comb   lambda=0.0538  T_ret=37  feasible(user)=True
+  done Delhi              RURAL  lambda=0.0540  T_ret=37  feasible(user)=True
+  done Delhi              URBAN  lambda=0.0522  T_ret=37  feasible(user)=True
+  done Goa                Comb   lambda=0.1939  T_ret=37  feasible(user)=True
+  done Goa                RURAL  lambda=0.2219  T_ret=37  feasible(user)=True
+  done Goa                URBAN  lambda=0.1826  T_ret=37  feasible(user)=True
+  done Gujarat            Comb   lambda=0.3329  T_ret=37  feasible(user)=True
+  done Gujarat            RURAL  lambda=0.4827  T_ret=37  feasible(user)=True
+  done Gujarat            URBAN  lambda=0.2477  T_ret=37  feasible(user)=True
+  done Haryana            Comb   lambda=0.1244  T_ret=37  feasible(user)=True
+  done Haryana            RURAL  lambda=0.2503  T_ret=37  feasible(user)=True
+  done Haryana            URBAN  lambda=0.0751  T_ret=37  feasible(user)=True
+  done Himachal Pradesh   Comb   lambda=0.1950  T_ret=37  feasible(user)=True
+  done Himachal Pradesh   RURAL  lambda=0.2099  T_ret=37  feasible(user)=True
+  done Himachal Pradesh   URBAN  lambda=0.1854  T_ret=37  feasible(user)=True
+  done Jammu & Kashmir    Comb   lambda=0.2002  T_ret=37  feasible(user)=True
+  done Jammu & Kashmir    RURAL  lambda=0.2221  T_ret=37  feasible(user)=True
+  done Jammu & Kashmir    URBAN  lambda=0.1836  T_ret=37  feasible(user)=True
+  done Jharkhand          Comb   lambda=0.2419  T_ret=37  feasible(user)=True
+  done Jharkhand          RURAL  lambda=0.2867  T_ret=37  feasible(user)=True
+  done Jharkhand          URBAN  lambda=0.2158  T_ret=37  feasible(user)=True
+  done Karnataka          Comb   lambda=0.1128  T_ret=37  feasible(user)=True
+  done Karnataka          RURAL  lambda=0.1802  T_ret=37  feasible(user)=True
+  done Karnataka          URBAN  lambda=0.0862  T_ret=37  feasible(user)=True
+  done Kerala             Comb   lambda=0.1705  T_ret=37  feasible(user)=True
+  done Kerala             RURAL  lambda=0.2205  T_ret=37  feasible(user)=True
+  done Kerala             URBAN  lambda=0.1483  T_ret=37  feasible(user)=True
+  done Madhya Pradesh     Comb   lambda=0.2823  T_ret=37  feasible(user)=True
+  done Madhya Pradesh     RURAL  lambda=0.5038  T_ret=37  feasible(user)=False
+  done Madhya Pradesh     URBAN  lambda=0.1507  T_ret=37  feasible(user)=True
+  done Maharashtra        Comb   lambda=0.1964  T_ret=37  feasible(user)=True
+  done Maharashtra        RURAL  lambda=0.3295  T_ret=37  feasible(user)=True
+  done Maharashtra        URBAN  lambda=0.1413  T_ret=37  feasible(user)=True
+  done Odisha             Comb   lambda=0.1426  T_ret=37  feasible(user)=True
+  done Odisha             RURAL  lambda=0.2132  T_ret=37  feasible(user)=True
+  done Odisha             URBAN  lambda=0.0962  T_ret=37  feasible(user)=True
+  done Punjab             Comb   lambda=0.2152  T_ret=37  feasible(user)=True
+  done Punjab             RURAL  lambda=0.4476  T_ret=37  feasible(user)=False
+  done Punjab             URBAN  lambda=0.1244  T_ret=37  feasible(user)=True
+  done Rajasthan          Comb   lambda=0.1106  T_ret=37  feasible(user)=True
+  done Rajasthan          RURAL  lambda=0.1625  T_ret=37  feasible(user)=True
+  done Rajasthan          URBAN  lambda=0.0899  T_ret=37  feasible(user)=True
+  done Tamil Nadu         Comb   lambda=0.1428  T_ret=37  feasible(user)=True
+  done Tamil Nadu         RURAL  lambda=0.1703  T_ret=37  feasible(user)=True
+  done Tamil Nadu         URBAN  lambda=0.1320  T_ret=37  feasible(user)=True
+  done Telangana          Comb   lambda=0.2413  T_ret=37  feasible(user)=True
+  done Telangana          RURAL  lambda=0.3646  T_ret=37  feasible(user)=True
+  done Telangana          URBAN  lambda=0.1943  T_ret=37  feasible(user)=True
+  done Uttar Pradesh      Comb   lambda=0.1768  T_ret=37  feasible(user)=True
+  done Uttar Pradesh      RURAL  lambda=0.2843  T_ret=37  feasible(user)=True
+  done Uttar Pradesh      URBAN  lambda=0.1254  T_ret=37  feasible(user)=True
+  done Uttarakhand        Comb   lambda=0.0967  T_ret=37  feasible(user)=True
+  done Uttarakhand        RURAL  lambda=0.1825  T_ret=37  feasible(user)=True
+  done Uttarakhand        URBAN  lambda=0.0589  T_ret=37  feasible(user)=True
+  done West Bengal        Comb   lambda=0.1774  T_ret=37  feasible(user)=True
+  done West Bengal        RURAL  lambda=0.2176  T_ret=37  feasible(user)=True
+  done West Bengal        URBAN  lambda=0.1587  T_ret=37  feasible(user)=True
+  done India              Comb   lambda=0.1861  T_ret=37  feasible(user)=True
+  done India              RURAL  lambda=0.2847  T_ret=37  feasible(user)=True
+  done India              URBAN  lambda=0.1399  T_ret=37  feasible(user)=True
+
+==== feasibility of your lambda (C - lambda*Y > 0 in every quarter) ====
+  feasible in 72 / 74 cells
+         STATE REGION  LAMBDA  MIN_C_OVER_Y_Q  N_QUARTERS_S_NONPOS
+Madhya Pradesh  RURAL  0.5038          0.3514                    9
+        Punjab  RURAL  0.4476          0.2580                   16
+
+==== SDF statistics, India / Comb (identical for every lambda) ====
+ SDF  T   MEAN  MEDIAN    MAX    MIN    STD  N_NONPOS  E_m_Rw  E_m_Rf  CORR_HJ  CORR_BM  CORR_CAPM
+  HJ 37 0.9947  1.0022 1.6301 0.4779 0.1807         0  1.0000  1.0000   1.0000   0.9313     0.9715
+  BM 37 0.9963  0.9723 1.8879 0.5937 0.2026         0  0.9997  1.0008   0.9313   1.0000     0.9758
+CAPM 37 0.9953  0.9815 1.6533 0.4856 0.1826         0  1.0000  1.0000   0.9715   0.9758     1.0000
+
+==== CRRA estimates, India cells ====
+REGION LAMBDA_SOURCE  LAMBDA  SDF    SPEC   BETA  SE_BETA   GAMMA  SE_GAMMA  J_PVAL  T_USED GAMMA_AT_BOUND
+  Comb    BASELINE_0  0.0000   HJ I_level 0.9899   0.0233 -0.4677    0.7164  0.6051    36.0          False
+  Comb    BASELINE_0  0.0000   HJ  II_log 0.9796   0.0251 -0.3923    0.6204  0.9366    36.0          False
+  Comb    BASELINE_0  0.0000   BM I_level 0.9860   0.0260 -0.8122    0.4781  0.6983    36.0          False
+  Comb    BASELINE_0  0.0000   BM  II_log 0.9814   0.0231 -0.7974    0.3894  0.9311    36.0          False
+  Comb    BASELINE_0  0.0000 CAPM I_level 0.9906   0.0234 -0.7604    0.5992  0.8576    36.0          False
+  Comb    BASELINE_0  0.0000 CAPM  II_log 0.9867   0.0224 -0.8395    0.5551  0.7450    36.0          False
+  Comb          USER  0.1861   HJ I_level 0.9893   0.0221 -0.4875    0.7293  0.6862    36.0          False
+  Comb          USER  0.1861   HJ  II_log 0.9805   0.0236 -0.4457    0.6411  0.9580    36.0          False
+  Comb          USER  0.1861   BM I_level 0.9863   0.0264 -0.7732    0.4759  0.7650    36.0          False
+  Comb          USER  0.1861   BM  II_log 0.9817   0.0232 -0.7604    0.3856  0.8459    36.0          False
+  Comb          USER  0.1861 CAPM I_level 0.9905   0.0235 -0.7438    0.6090  0.9377    36.0          False
+  Comb          USER  0.1861 CAPM  II_log 0.9868   0.0223 -0.8190    0.5580  0.6733    36.0          False
+ RURAL    BASELINE_0  0.0000   HJ I_level 0.9860   0.0228 -0.8878    0.6477  0.6488    36.0          False
+ RURAL    BASELINE_0  0.0000   HJ  II_log 0.9776   0.0240 -0.8920    0.5665  0.9829    36.0          False
+ RURAL    BASELINE_0  0.0000   BM I_level 0.9833   0.0246 -0.9276    0.4714  0.6277    36.0          False
+ RURAL    BASELINE_0  0.0000   BM  II_log 0.9759   0.0234 -0.9584    0.4029  0.9003    36.0          False
+ RURAL    BASELINE_0  0.0000 CAPM I_level 0.9877   0.0229 -0.8708    0.5569  0.7670    36.0          False
+ RURAL    BASELINE_0  0.0000 CAPM  II_log 0.9812   0.0229 -0.9980    0.5190  0.8864    36.0          False
+ RURAL          USER  0.2847   HJ I_level 0.9912   0.0212 -0.5081    0.2642  0.8456    36.0          False
+ RURAL          USER  0.2847   HJ  II_log 0.9821   0.0210 -0.5902    0.2544  0.9101    36.0          False
+ RURAL          USER  0.2847   BM I_level 0.9894   0.0279 -0.5119    0.2507  0.6080    36.0          False
+ RURAL          USER  0.2847   BM  II_log 0.9752   0.0255 -0.5782    0.2225  0.7162    36.0          False
+ RURAL          USER  0.2847 CAPM I_level 0.9914   0.0237 -0.4935    0.2416  0.8144    36.0          False
+ RURAL          USER  0.2847 CAPM  II_log 0.9801   0.0231 -0.6069    0.2334  0.9981    36.0          False
+ URBAN    BASELINE_0  0.0000   HJ I_level 0.9880   0.0242 -0.7735    0.6312  0.7877    36.0          False
+ URBAN    BASELINE_0  0.0000   HJ  II_log 0.9822   0.0245 -0.8060    0.5449  0.8132    36.0          False
+ URBAN    BASELINE_0  0.0000   BM I_level 0.9876   0.0267 -0.7180    0.4368  0.7398    36.0          False
+ URBAN    BASELINE_0  0.0000   BM  II_log 0.9797   0.0252 -0.7901    0.3852  0.9583    36.0          False
+ URBAN    BASELINE_0  0.0000 CAPM I_level 0.9916   0.0252 -0.7235    0.5380  0.9206    36.0          False
+ URBAN    BASELINE_0  0.0000 CAPM  II_log 0.9850   0.0249 -0.8822    0.5259  0.7420    36.0          False
+ URBAN          USER  0.1399   HJ I_level 0.9838   0.0247 -0.8275    0.7535  0.6936    36.0          False
+ URBAN          USER  0.1399   HJ  II_log 0.9783   0.0244 -0.7916    0.5788  0.8948    36.0          False
+ URBAN          USER  0.1399   BM I_level 0.9825   0.0264 -0.7540    0.5016  0.6345    36.0          False
+ URBAN          USER  0.1399   BM  II_log 0.9756   0.0247 -0.7883    0.4077  0.9341    36.0          False
+ URBAN          USER  0.1399 CAPM I_level 0.9871   0.0253 -0.7491    0.6217  0.8116    36.0          False
+ URBAN          USER  0.1399 CAPM  II_log 0.9808   0.0246 -0.8731    0.5613  0.8166    36.0          False
+
+==== verification ====
+  [PASS] HJ and CAPM: E[m Rw] = E[m Rf] = 1 in every cell               
+  [PASS] HJ series re-derived independently (all cells)                 max diff 0.0e+00
+  [PASS] log spec: L-BFGS-B equals closed-form two-step GMM             146 fits, max diff 7.2e-06
+  [PASS] every feasible fit converged                                   876 fits
+  verification PASSED
+
+wrote to c:\Users\OMKAAR\OneDrive\Documents\CCAPM_PAPER_2(UPDATED)\SDF_quarterly_lambda_results:
+  CCAPM_ESTIMATES_Q.csv
+  CONSUMPTION_SDF_SERIES_Q.csv
+  CONSUMPTION_SDF_STATS_Q.csv
+  LAMBDA_FEASIBILITY_Q.csv
+  SDF_SERIES_Q.csv
+  SDF_STATS_Q.csv
+  fig1_consumption_income_India_Q.png
+  fig2_sdf_India_Q.png
+  figures_all_cells_Q.pdf
+  run_log.txt
