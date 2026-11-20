@@ -24,6 +24,20 @@ All-India estimates (Hansen–Jagannathan SDF, level specification; standard err
 
 ---
 
+## Figures
+
+**Why the model struggles.** The market-based SDFs (black) swing widely from quarter to quarter, especially around the COVID crash in 2020. The SDF implied by household consumption (blue) stays close to 1, because spending moves far too little to match them.
+
+![All-India stochastic discount factors](SDF_quarterly_lambda_results/fig2_sdf_India_Q.png)
+
+**The raw data.** All-India real household spending and income per quarter. Spending is much smoother than income, apart from the 2020 lockdown drop.
+
+![All-India real consumption and income](SDF_quarterly_lambda_results/fig1_consumption_income_India_Q.png)
+
+Plots for every state × region are in `SDF_quarterly_lambda_results/figures_all_cells_Q.pdf`.
+
+---
+
 ## Method in brief
 
 **1. Data (quarterly, real terms)**
@@ -138,18 +152,6 @@ A run takes about 1–2 minutes. It ends by printing `verification PASSED` or `F
 
 ---
 
-## License
-
-This project is for academic and educational purposes.
-
----
-
 ## Author
 
-**Mudigonda Omkaar Sharma**  
-B.Tech Electrical Engineering, Nirma University  
-Research Interests: Asset-Pricing Models, Financial Econometrics, Energy Economics, Stochastic Processes
-
-[LinkedIn](https://www.linkedin.com/in/omkaar-sharma-b2b179200/) · [GitHub](https://github.com/Musashi1970)
-
-*Independent research project in energy market stochastic modelling.*
+**Mudigonda Omkaar Sharma**, B.Tech. Electrical Engineering, Nirma University
