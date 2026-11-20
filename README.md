@@ -152,6 +152,18 @@ A run takes about 1–2 minutes. It ends by printing `verification PASSED` or `F
 
 ---
 
+## License
+
+This project is for academic and educational purposes.
+
+---
+
 ## Author
 
-**Mudigonda Omkaar Sharma**, B.Tech. Electrical Engineering, Nirma University
+**Mudigonda Omkaar Sharma**  
+B.Tech Electrical Engineering, Nirma University  
+Research Interests: Asset-Pricing, Financial Economics, Energy Markets, Stochastic Processes
+
+[LinkedIn](https://www.linkedin.com/in/omkaar-sharma-b2b179200/) · [GitHub](https://github.com/Musashi1970)
+
+*Independent research project in energy market stochastic modelling.*
